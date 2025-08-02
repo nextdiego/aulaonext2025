@@ -1,3 +1,3 @@
 projeto = "projeto python"
 next = "next"
-print(projeto)
+print(f'{projeto} + {next}')
